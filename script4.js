@@ -45,23 +45,21 @@ let numT = -67
 // }
 // if(numT > 10){
 //     console.log("30 % discount")
+// // }
+
+// if(numT > 0 && numT <= 5){
+//     console.log("10 % discount")
 // }
-
-if(numT > 0 && numT <= 5){
-    console.log("10 % discount")
-}
-else if(numT > 5 && numT <= 10){
-    console.log("20 % discount")
-}
-else if(numT > 10){
-    console.log("30 % discount")
-}
-else {
-    console.log("Incorrect input")
-}
-
-
-console.log('hello')
+// else if(numT > 5 && numT <= 10){
+//     console.log("20 % discount")
+// }
+// else if(numT > 10){
+//     console.log("30 % discount")
+// }
+// else {
+//     console.log("Incorrect input")
+// }
+// console.log('hello')
 
 
 
