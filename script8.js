@@ -146,7 +146,7 @@ console.log(22 != 22 ||  33 != 33)
 //false ==> true 
 console.log( !(7 == '7'))
 console.log( !(7 === '7'))
-
+console.log("Added the code from a branch")
 // conditional statements , tenary operator , switchCase , truthy/falsy value r
 
 
