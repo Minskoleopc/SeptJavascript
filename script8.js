@@ -147,7 +147,7 @@ console.log(22 != 22 ||  33 != 33)
 console.log( !(7 == '7'))
 console.log( !(7 === '7'))
 
-// conditional statements , tenary operator , switchCase , truthy/falsy value
+// conditional statements , tenary operator , switchCase , truthy/falsy value r
 
 
 
