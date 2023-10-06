@@ -91,6 +91,11 @@ puneS.forEach(function(el){
 // print name of user starting with a
 
 
+students.forEach(function(){
+    if(el.fullName.startsWith('a')){
+        console.log(el.fullName)
+    }
+})
 
 
 
