@@ -80,7 +80,6 @@ class Student {
 }
 
 class Teacher extends Student {
-    
     salary = 1000
     displaySalary(){
         console.log(this.salary)
