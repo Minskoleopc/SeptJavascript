@@ -106,8 +106,9 @@ amolC.displayName()
 // console.log(info)
 
 
-class PersonD{
 
+class PersonD{
+    
     set firstName(fn){
         this.first_name = fn
     }
@@ -142,9 +143,7 @@ class PersonD{
     }
 
 
-
 }
-
 let abc = new PersonD()
 console.log(abc)
 
@@ -157,10 +156,6 @@ console.log(abc.firstName)
 console.log(abc.lastName)
 console.log(abc.Age)
 console.log(abc.rollNo)
-
-
-
-
 console.log(abc.firstName)
 console.log(abc)
 

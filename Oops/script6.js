@@ -105,7 +105,6 @@ class Daughter extends Mother {
 
 }
 
-
 let chinmayS  = new Son("Kanchan","Deshpande","Chinmay")
 let Gauri  = new Daughter("Kanchan","Deshpande","Gauri")
 
