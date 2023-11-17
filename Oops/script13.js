@@ -100,7 +100,7 @@ function additionC(a,...b){
 let q4 = additionC(17,23,4,50,2,17,14,3,5,6,7,8)
 let q5 = additionC(5,23,4,50,2,17,14,3,5,6,7,8)
 console.log(q4)
-console.log(q5)
+git
 
 // spread operator 
 
