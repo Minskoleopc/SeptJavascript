@@ -123,12 +123,6 @@ let pro = new Promise(function(resolve,reject){
 // })
 
 
-
-
-
-
-
-
 function getInfo() {
     setTimeout(function () {
         console.log("user create")

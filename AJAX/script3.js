@@ -74,8 +74,6 @@ let pro = new Promise(function (resolve, reject) {
 
 // call back hell 
 
-
-
 function getInfo() {
     setTimeout(function () {
         console.log('user created')
